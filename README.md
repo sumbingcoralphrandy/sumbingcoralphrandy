@@ -6,10 +6,11 @@ I am an IT Support professional experienced in end-user support, ticketing, and 
 
 ---
 
-## 🚀 What I'm Up To Right Now
-* **Learning & Building:** Deep-diving into **n8n workflow automation**, **AI Integration**, and **Data Analytics**.
-* **Current Project:** 🏗️ *[Insert a brief title of what you are building, e.g., Building an Automated IT Ticketing Triager]* — *In Progress*
-* **Goal:** To automate repetitive IT tasks and turn raw system data into actionable insights.
+## 🚀 Current Project
+* 🏗️ **AI-Powered Slack Support Bot** *(In Progress)*
+  * **Goal:** Building an intelligent Slack chat bot that acts as an automated first-line support agent for technical and internal queries.
+  * **How it works:** The bot integrates **LiteLLM** to leverage **Anthropic's Claude AI**, directly querying **Atlassian Confluence** as its central knowledge base to deliver accurate, documentation-backed responses instantly.
+  * **Core Stack:** n8n, LiteLLM (Anthropic Claude), Confluence API, Slack API, JSON.
 
 ---
 
