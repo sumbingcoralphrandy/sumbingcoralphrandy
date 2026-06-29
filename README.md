@@ -35,8 +35,8 @@ I am an IT Support professional experienced in end-user support, ticketing, and 
 ---
 
 ## 📫 Let's Connect!
-* **LinkedIn:** [Your LinkedIn Profile Link]
-* **Email:** [Your Email Address]
+* **LinkedIn:** https://www.linkedin.com/in/ralph-randy-sumbingco-290826161 
+* **Email:** ralphrandy.sumbingco@gmail.com
 
 <!--
 **sumbingcoralphrandy/sumbingcoralphrandy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
