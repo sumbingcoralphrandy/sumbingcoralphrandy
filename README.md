@@ -11,6 +11,11 @@ I am an IT Support professional experienced in end-user support, ticketing, and 
   * **Goal:** Building an intelligent Slack chat bot that acts as an automated first-line support agent for technical and internal queries.
   * **How it works:** The bot integrates **LiteLLM** to leverage **Anthropic's Claude AI**, directly querying **Atlassian Confluence** as its central knowledge base to deliver accurate, documentation-backed responses instantly.
   * **Core Stack:** n8n, LiteLLM (Anthropic Claude), Confluence API, Slack API, JSON.
+ 
+ ### 📸 Workflow Architecture (n8n Blueprint)
+<p align="left">
+  <img src="Slack chat bot (with basic AI liteLLM integration) project.jpg" alt="n8n Slack Bot Workflow Blueprint" width="750">
+</p>
 
 ---
 
