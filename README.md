@@ -1,60 +1,38 @@
-# Hi there, I'm Ralph 👋
+Hi, I'm Ralph 👋
+Senior Platform Support Analyst | IT Operations, Data Analytics & Automation
+I'm an IT professional with 8+ years of experience across platform support, incident management, and identity and access management.
 
-### ⚡ IT Support Specialist | Transitioning into Automation, AI Integration & Data Analytics
+My work combines technical troubleshooting, cross-functional incident coordination, SQL reporting, and Power BI dashboard development. I'm also expanding my skills in workflow automation and AI integration to support more efficient IT operations.
 
-I am an IT Support professional experienced in end-user support, ticketing, and infrastructure monitoring. Currently, I am expanding my skills into automation, AI integration, and data analytics to transform traditional IT operations into smarter, automated workflows.
+🔎 Current Focus
+Developing a Power BI dashboard using internal company data to support operational reporting.
+Strengthening my skills in data modeling, dashboard design, and SQL analysis.
+Exploring workflow automation and AI integration using n8n, LiteLLM, and APIs.
+My current Power BI work involves company data and is not shared publicly.
 
----
+💼 Professional Background
+Senior Platform Support Analyst Platform incident management, API troubleshooting, SQL data requests, and Power BI reporting.
 
-## 🚀 Current Project
-* 🏗️ **AI-Powered Slack Support Bot** *(In Progress)*
-  * **Goal:** Building an intelligent Slack chat bot that acts as an automated first-line support agent for technical and internal queries.
-  * **How it works:** The bot integrates **LiteLLM** to leverage **Anthropic's Claude AI**, directly querying **Atlassian Confluence** as its central knowledge base to deliver accurate, documentation-backed responses instantly.
-  * **Core Stack:** n8n, LiteLLM (Anthropic Claude), Confluence API, Slack API, JSON.
- 
- ### 📸 Workflow Architecture (n8n Blueprint)
-<p align="left">
-  <img src="Slack chat bot (with basic AI liteLLM integration) project.jpg" alt="n8n Slack Bot Workflow Blueprint" width="750">
-</p>
+Platform Support Coordinator Incident and service request coordination, technical escalations, and operational documentation.
 
----
+Earlier experience at TATA Consultancy Services Progressed through IT Service Desk, Subject Matter Expert, and Project Support Analyst roles, supporting user provisioning, Joiners-Movers-Leavers processes, escalations, and team training.
 
-## 🛠️ Technical Toolkit
+🛠️ Technical Toolkit
+Area	Tools & Skills
+Service Management	Incident management, root cause analysis, ServiceNow, Jira, Zendesk, Ivanti, Marval, Confluence
+Data & Reporting	SQL, Y42, Power BI, Excel
+APIs & Integration	Postman, JSON, API troubleshooting
+Identity & Access	Access provisioning, Active Directory, SAP CDC (Gigya)
+Infrastructure & Monitoring	AWS S3, Site24x7, New Relic
+Automation & AI Learning	n8n, LiteLLM, AI prompting, Power Automate, Power Apps
+📜 Certification
+ITIL 4 Foundation Certificate in IT Service Management
+PeopleCert | Issued November 2024
 
-| Category | Technologies & Tools |
-| :--- | :--- |
-| **Automation & AI** | n8n, LiteLLM, Prompt Engineering (Gemini, Claude, Copilot), API Integration (Postman) |
-| **Data Analytics** | SQL, Y42, Power BI (Dashboard Design), JSON |
-| **ITSM Platforms** | ServiceNow, Jira, Zendesk, Ivanti, Marval, Confluence |
-| **Identity & Access** | SAP CDC (Gigya Console), Access Provisioning, Active Directory, Salesforce |
-| **Infrastructure & Monitoring** | AWS S3, Site24x7, New Relic |
-| **Multi-Channel Support** | Technical Assistance via Voice, Chat, and Email Channels |
+🎓 Education
+Bachelor of Science in Information Technology in Service Management
+University of Makati | Cum Laude | 2018
 
----
-
-## 📜 Certifications
-
-* **ITIL® 4 Foundation Certificate in IT Service Management**
-  * *Issued by:* PeopleCert (Nov 2024 - Expires Nov 2027)
-  * *Credential ID:* GR671716579RS
-
----
-
-## 📫 Let's Connect!
-* **LinkedIn:** https://www.linkedin.com/in/ralph-randy-sumbingco-290826161 
-* **Email:** ralphrandy.sumbingco@gmail.com
-
-<!--
-**sumbingcoralphrandy/sumbingcoralphrandy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📫 Let's Connect
+LinkedIn
+Email: ralphrandy.sumbingco@gmail.com
